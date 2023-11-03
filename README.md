@@ -35,3 +35,4 @@
 
     You can also choose the number of recommendations you want using the slider.
 </h6>
+
