@@ -2,6 +2,7 @@
 ### recommendations of the movies from his first choice
 
 <h6>
+    
     1. Dataset were found from the website of TMDB. This is a website that stores the world 
     wide movies data with around 5000 movies during this project was created.
     Data cleaning was a huge task. Only some of the few columns were taken from the provided
