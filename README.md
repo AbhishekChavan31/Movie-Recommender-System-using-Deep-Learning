@@ -1,4 +1,4 @@
-### This project is a Machine Learning Project and this is designed to give the user 
+### This project is a Deep learning Project and this is designed to give the user 
 ### recommendations of the movies from his first choice
 
 <h6>
